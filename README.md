@@ -41,13 +41,16 @@ A secure and user-friendly e-commerce platform designed for book sales with full
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154336" src="https://github.com/user-attachments/assets/84ce7a1b-6b57-418a-96c6-9fbf3cd9fe0b" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154353" src="https://github.com/user-attachments/assets/ac76ff1c-9d7c-43ab-95df-a61f4f573f02" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154413" src="https://github.com/user-attachments/assets/6b979214-c65f-4f0e-83af-c65ce035bd58" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154517" src="https://github.com/user-attachments/assets/0e926a43-1e1e-44d9-9071-7c31bc8bfec8" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154603" src="https://github.com/user-attachments/assets/652279b9-8dba-4f3a-809c-1490ac229e2b" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154615" src="https://github.com/user-attachments/assets/596c74d0-2130-4e74-8416-13a499ffe5f6" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154721" src="https://github.com/user-attachments/assets/3e193e87-bbba-419a-a599-da43e2dc779a" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154737" src="https://github.com/user-attachments/assets/1a2aa0fc-7745-42e0-84e8-b8699be63fa8" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-04 154802" src="https://github.com/user-attachments/assets/8ba38c82-19cf-4a29-aa1e-f73efd6eeaa9" />
 
-![onlinebookstore](https://user-images.githubusercontent.com/34605595/137615096-8447d32d-bddc-4f13-a8ed-3c0f4dd5e04e.png)
-<img width="941" alt="image" src="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png">
-<img width="954" alt="image" src="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png">
-<img width="930" alt="image" src="https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png">
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png">
-<img width="946" alt="image" src="https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png">
 ## 🤝 Contributing
 
 Contributions are welcome!  
